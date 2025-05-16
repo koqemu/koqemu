@@ -11,7 +11,7 @@
 ## About me 
 <img align="right" alt="Coding GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwd2lvbDF6NWViM2o4ODA0ZDJidTFmZGo1czlncTBtb2xjMzEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfpptIctnLn7IMo/giphy.gif" style="margin-left: 20px;" />
 
-- I’m currently training to become a Fullstack Web Developer, starting from the fundamentals of programming to building fully-featured applications using modern technologies.
+- I’m currently training to become a Fullstack Developer, starting from the fundamentals of programming to building fully-featured applications using modern technologies.
 - I’m learning JavaScript, Node.js, React, Next.js, databases, software architecture, and more.
 - I’m passionate about building functional, real-world projects while applying concepts like MVC, OOP, testing, APIs, and deployment.
 - Goal: To become a job-ready professional capable of creating scalable and impactful solutions.

@@ -58,27 +58,14 @@ A fullstack blog platform using React and PostgreSQL for persistent storage.
 
 ## Let's connect!
 
-If you'd like to collaborate or chat, feel free to reach out via LinkedIn or GitHub. I'm always open to interesting projects and ideas!
-
-<!--
 <p align="center">
-  <a href="https://linkedin.com/in/koqemu" target="_blank">
+  <a href="https://www.linkedin.com/in/jorgesalinaszh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/koqemu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/koqemu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
--->
 
----
+<p align="center">
+  I'm always open to collaboration, feedback, or just a friendly chat. Let's build something awesome together! 🚀
+</p>
 
-### 🤝 Let’s connect and build something awesome together!
-
-Feel free to reach out for collaboration, feedback or just to say hi 👋
-
----
 

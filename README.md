@@ -6,16 +6,17 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=koqemu&style=flat-square)
+
+---
+
 ## About me 
 <img align="right" alt="Coding GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwd2lvbDF6NWViM2o4ODA0ZDJidTFmZGo1czlncTBtb2xjMzEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfpptIctnLn7IMo/giphy.gif" />
-<div margin-right: 40px>
-<p>- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.</p>
-<p>- 🧩 I’m currently learning everything about Frontend and Backend technologies 😅</p>
-<p>- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</p>
-<p>- ⚡ Fun fact: I love to play pool and snooker.</p>
-</div>
 
-<br>
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.  
+- 🧩 I’m currently learning everything about Frontend and Backend technologies 😅  
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.  
+- ⚡ Fun fact: I love to play pool and snooker.  
 
 ## Skills
 <p align="left">
@@ -33,49 +34,50 @@
 |------------|-------------|
 | JavaScript | Intermediate |
 | React      | Beginner     |
-| Node.js    | Beginner |
+| Node.js    | Beginner     |
 | PostgreSQL | Beginner     |
-| Git        | Beginner |
+| Git        | Beginner     |
 
 ---
+
 <!--
 ## Projects
 
-### [Project 1 - Portfolio Website](https://github.com/tu-usuario/portfolio)
+### [Project 1 - Portfolio Website](https://github.com/koqemu/portfolio)
 A personal portfolio website built with React to showcase my projects and skills.
 
-### [Project 2 - Task Manager API](https://github.com/tu-usuario/task-manager-api)
+### [Project 2 - Task Manager API](https://github.com/koqemu/task-manager-api)
 A RESTful API using Node.js and Express for managing tasks with JWT authentication.
 
-### [Project 3 - Blog Platform](https://github.com/tu-usuario/blog-platform)
+### [Project 3 - Blog Platform](https://github.com/koqemu/blog-platform)
 A fullstack blog platform using React and PostgreSQL for persistent storage.
-
----
-
-## Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 -->
+
 ---
 
 ## Let's connect!
 
 If you'd like to collaborate or chat, feel free to reach out via LinkedIn or GitHub. I'm always open to interesting projects and ideas!
 
+<!--
+<p align="center">
+  <a href="https://linkedin.com/in/koqemu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/koqemu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/koqemu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+-->
+
 ---
 
+### 🤝 Let’s connect and build something awesome together!
 
+Feel free to reach out for collaboration, feedback or just to say hi 👋
 
-
-
+---
 

@@ -33,12 +33,12 @@
 |------------|-------------|
 | JavaScript | Intermediate |
 | React      | Beginner     |
-| Node.js    | Intermediate |
+| Node.js    | Beginner |
 | PostgreSQL | Beginner     |
-| Git        | Intermediate |
+| Git        | Beginner |
 
 ---
-
+<!--
 ## Projects
 
 ### [Project 1 - Portfolio Website](https://github.com/tu-usuario/portfolio)
@@ -65,15 +65,7 @@ A fullstack blog platform using React and PostgreSQL for persistent storage.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+-->
 ---
 
 ## Let's connect!

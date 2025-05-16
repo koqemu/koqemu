@@ -6,7 +6,7 @@
 </p>
 
 
-## I'm a Computer Science and Engineering Student  
+## About me 
 <img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwd2lvbDF6NWViM2o4ODA0ZDJidTFmZGo1czlncTBtb2xjMzEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfpptIctnLn7IMo/giphy.gif" />
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.

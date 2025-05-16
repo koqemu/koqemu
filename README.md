@@ -19,12 +19,13 @@
 
 ## Skills
 <p align="left">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="30" style="filter: brightness(0%) invert(0%); margin-right: 40px;" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="React" width="30" style="filter: brightness(0%) invert(0%); margin-right: 40px;" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="Node.js" width="30" style="filter: brightness(0%) invert(0%); margin-right: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" style="filter: brightness(0%) invert(0%); margin-right: 40px;" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="Git" width="30" style="filter: brightness(0%) invert(0%);" />
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/javascript.svg" alt="JavaScript" width="30" style="margin-right: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/react.svg" alt="React" width="30" style="margin-right: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/nodejs.svg" alt="Node.js" width="30" style="margin-right: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" style="margin-right: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/git.svg" alt="Git" width="30" />
 </p>
+
 
 ---
 

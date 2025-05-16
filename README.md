@@ -39,8 +39,6 @@
 | PostgreSQL | Beginner     |
 | Git        | Beginner     |
 
----
-
 <!--
 ## Projects
 
